@@ -7,7 +7,7 @@
 
 - 👯 Me gustaría colaborar en **Proyectos de Programación**
 
-- 👨‍💻 Todos mis proyectos en linkedln , Mi blog y github
+- 👨‍💻 Todos mis proyectos en **linkedin , Mi blog y github**
 
 - 📝 Yo regularmente escribo en [BrandonDevEden.blogspot.com](BrandonDevEden.blogspot.com)
 
