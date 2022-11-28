@@ -7,13 +7,13 @@
 
 - 👯 Me gustaría colaborar en **Proyectos de Programación**
 
-- 👨‍💻 Todos mis proyectos en [Aunendesarrollo.com](Aunendesarrollo.com)
+- 👨‍💻 Todos mis proyectos en linkedln , Mi blog y github
 
 - 📝 Yo regularmente escribo en [BrandonDevEden.blogspot.com](BrandonDevEden.blogspot.com)
 
 - 💬 Pregúntame sobre **HTML, CSS , JavaScrip , React**
 
-- 📫 Como puedes contactarme **Aunendesarrollo@.com**
+- 📫 Como puedes contactarme **brandeveden2022@gmail.com**
 
 - ⚡ Hechos Divertidos **Soy Amable y me gusta escuchar a las personas.**
 
